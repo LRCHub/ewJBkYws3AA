@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "KNOW ABOUT ME",
+  "base_artist": "NMIXX",
+  "createdAt": "2025-12-18T12:49:10.353097Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me",
+      "artist": "Diana Ross & The Supremes",
+      "has_synced": false,
+      "path": "select/01_Does_Your_Mama_Know_About_Me_Diana_Ross_&_The_Supremes.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me",
+      "artist": "Bobby Taylor & The Vancouvers",
+      "has_synced": true,
+      "path": "select/02_Does_Your_Mama_Know_About_Me_Bobby_Taylor_&_The_Vancouvers.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me",
+      "artist": "Bobby Taylor & Vancouvers",
+      "has_synced": false,
+      "path": "select/03_Does_Your_Mama_Know_About_Me_Bobby_Taylor_&_Vancouvers.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "What D'You Know About Me?",
+      "artist": "Jungle",
+      "has_synced": true,
+      "path": "select/04_What_D'You_Know_About_Me_Jungle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Does Your Daddy Know About Me?",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/05_Does_Your_Daddy_Know_About_Me_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "06 - Does Your Daddy Know About Me",
+      "artist": "Lonestar",
+      "has_synced": true,
+      "path": "select/06_06_-_Does_Your_Daddy_Know_About_Me_Lonestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "What You Know About Me",
+      "artist": "Another Level",
+      "has_synced": false,
+      "path": "select/07_What_You_Know_About_Me_Another_Level.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "What You Know About Me (feat. Fats)",
+      "artist": "Another Level",
+      "has_synced": false,
+      "path": "select/08_What_You_Know_About_Me_(feat._Fats)_Another_Level.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everything You Need To Know About Me Today",
+      "artist": "Delacey",
+      "has_synced": true,
+      "path": "select/09_Everything_You_Need_To_Know_About_Me_Today_Delacey.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "You Don't Know About Me",
+      "artist": "Ella Vos",
+      "has_synced": true,
+      "path": "select/10_You_Don't_Know_About_Me_Ella_Vos.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me?",
+      "artist": "Bobby Taylor",
+      "has_synced": false,
+      "path": "select/11_Does_Your_Mama_Know_About_Me_Bobby_Taylor.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me (promo version)",
+      "artist": "Bobby Taylor & The Vancouvers",
+      "has_synced": false,
+      "path": "select/12_Does_Your_Mama_Know_About_Me_(promo_version)_Bobby_Taylor_&_The_Vancouvers.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me (promo version)",
+      "artist": "Bobby Taylor and the Vancouvers",
+      "has_synced": true,
+      "path": "select/13_Does_Your_Mama_Know_About_Me_(promo_version)_Bobby_Taylor_and_the_Vancouvers.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "You Don't Know About Me (Remix)",
+      "artist": "Ella Vos\r\nR3HAB",
+      "has_synced": true,
+      "path": "select/14_You_Don't_Know_About_Me_(Remix)_Ella_Vos_R3HAB.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "What You Know About Me (feat. Lil los & Lou e Lou)",
+      "artist": "Woodie",
+      "has_synced": false,
+      "path": "select/15_What_You_Know_About_Me_(feat._Lil_los_&_Lou_e_Lou)_Woodie.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "What D'You Know About Me?",
+      "artist": "Jungle",
+      "has_synced": true,
+      "path": "select/16_What_D'You_Know_About_Me_Jungle.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Does Your Mama Know About Me",
+      "artist": "Bobby Taylor & The Vancouvers",
+      "has_synced": true,
+      "path": "select/17_Does_Your_Mama_Know_About_Me_Bobby_Taylor_&_The_Vancouvers.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Know About Me",
+      "artist": "Barely Alive, Virus Syndicate",
+      "has_synced": true,
+      "path": "select/18_Know_About_Me_Barely_Alive,_Virus_Syndicate.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KNOW ABOUT ME",
+      "artist": "NMIXX",
+      "has_synced": false,
+      "path": "select/pl_01_KNOW_ABOUT_ME_NMIXX.txt"
+    }
+  ]
+}
